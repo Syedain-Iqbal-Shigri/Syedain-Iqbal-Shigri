@@ -11,18 +11,15 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 **Currently working on:** **AI-based NLP Language Translator**  
-- 🌱 **Learning:** Advanced **Machine Learning** and **Natural Language Processing**  
-- 💬 **Ask me about:** MERN Stack, AI, NLP, Language Translators, Web Development  
+- 🔭 **Currently working on:** **Hotel Management System**  
+- 🌱 **Learning:** Advanced **Advance Tool** and **Technique**  
+- 💬 **Ask me about:** MERN Stack, Web Development and JS  
 - 📫 **Email:** **sishigree@gmail.com**  
 
 ---
 
 ## 🛠️ Skills & Tools
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" />
@@ -38,30 +35,27 @@
 
 ---
 
-## 🚀 Current Project: NLP AI-based Language Translator
-- **Tech Stack:** Python, PyTorch, TensorFlow, Hugging Face Transformers, FastAPI, React  
-- **Tech Stack:** Python, PyTorch, TensorFlow, Hugging Face Transformers, FastAPI, React, 
+## 🚀 Current Project: Hotel Management System
+- **Tech Stack:** React, JS, Tailwind CSS, NodeJS, Express JS, and Mongo Db   
 - **Key Focus:**  
-- Data preprocessing & tokenization   
-- Model training and fine-tuning (BLEU/F1 metrics)  
-- Building APIs for real-time translation  
-- **Objective:** Create an **AI-powered translator** for accurate and scalable language conversion  
+- User friendly interface  
+- Speed optimization 
+- Building APIs for real-time communication  
+- **Objective:** Create an **User friendly interface** for accurate and scalable data conversion  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ali-Anjum&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali-Anjum&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Syedain-Iqbal-Shigr&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syedain-Iqbal-Shigr&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-<a href="mailto:anjumbalgharii@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Muhammad-Ali-Anjum"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/muhammad-ali-anjum-aa345727b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.kaggle.com/anjumbalghari"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="mailto:sishigree@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Syedain-Iqbal-Shigri"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
     
