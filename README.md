@@ -1,352 +1,109 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Syedain Iqbal Shigri - Portfolio</title>
-    <!-- Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
-    
-    <style>
-        /* --- RESET & VARIABLES --- */
-        :root {
-            --bg-dark: #0f172a;
-            --bg-card: rgba(30, 41, 59, 0.7);
-            --primary: #38bdf8;
-            --secondary: #818cf8;
-            --accent: #2dd4bf;
-            --text-main: #f1f5f9;
-            --text-muted: #94a3b8;
-        }
+<!-- =========================
+     Syedain Iqbal Shigri - GitHub Profile README
+     Copy & paste this whole file into your README.md
+   ========================= -->
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Poppins', sans-serif;
-        }
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00FF88&center=true&vCenter=true&width=900&height=70&lines=Hi+%F0%9F%91%8B,+I'm+Syedain+Iqbal+Shigri;Full+Stack+Web+Developer+%7C+MERN+Stack+%7C+AI+%26+NLP+Enthusiast" alt="Typing SVG"/>
+</p>
 
-        body {
-            background-color: var(--bg-dark);
-            color: var(--text-main);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            overflow-x: hidden;
-        }
+<p align="center">
+  <img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=O2cT6JPnp1MfGg&pid=ImgRaw&r=0" alt="Banner" style="max-width:100%; border-radius:12px; box-shadow: 0 8px 30px rgba(2,6,23,0.4)"/>
+</p>
 
-        /* --- CONTAINER --- */
-        .container {
-            width: 90%;
-            max-width: 1200px;
-            margin: 0 auto;
-            animation: fadeIn 1.5s ease-out;
-        }
+<h3 align="center">Turning ideas into pixels & APIs — one commit at a time ✨</h3>
 
-        /* --- HEADER SECTION --- */
-        .header {
-            text-align: center;
-            margin-bottom: 60px;
-            position: relative;
-        }
+---
 
-        .avatar {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            border: 3px solid var(--primary);
-            box-shadow: 0 0 20px rgba(56, 189, 248, 0.4);
-            margin-bottom: 20px;
-            animation: float 6s ease-in-out infinite;
-        }
+## 👨‍💻 About Me
+- 🔭 **Currently building:** _Hotel Management System_ (React + Tailwind + Node + MongoDB)  
+- 🌱 **Learning now:** advanced tools & techniques in AI / NLP and production-ready DevOps flows  
+- 💬 **Ask me about:** MERN stack, JavaScript, web performance, and building APIs  
+- 📫 **Email:** [sishigree@gmail.com](mailto:sishigree@gmail.com)  
+- 🎯 **Goal:** Craft elegant, fast, user-first web experiences that scale
 
-        @keyframes float {
-            0%, 100% { transform: translateY(0); }
-            50% { transform: translateY(-15px); }
-        }
+---
 
-        .name {
-            font-size: 3rem;
-            font-weight: 800;
-            background: linear-gradient(to right, var(--primary), var(--secondary));
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            margin-bottom: 10px;
-        }
+## 🧰 Tech & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36" alt="Node.js"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="36" height="36" alt="Express"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36" alt="MongoDB"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git"/>
+</p>
 
-        .typing-container {
-            font-family: 'JetBrains Mono', monospace;
-            color: var(--accent);
-            font-size: 1.2rem;
-            height: 30px;
-            display: inline-block;
-        }
+---
 
-        .cursor {
-            display: inline-block;
-            width: 2px;
-            height: 1.2rem;
-            background-color: var(--accent);
-            animation: blink 1s step-end infinite;
-        }
+## 🚀 Highlights & Philosophy
+- **User-first** interfaces — clean UIs with fast load times  
+- **APIs that scale** — simple, well-documented endpoints for real-time interactions  
+- **Learning by building** — every project teaches one new best practice  
+> "Build something people want. Ship early. Improve constantly."  
 
-        @keyframes blink {
-            50% { opacity: 0; }
-        }
+---
 
-        /* --- LAYOUT GRIDS --- */
-        .grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 20px;
-            margin-bottom: 40px;
-        }
+## 🔭 Current Project — Hotel Management System
+**Stack:** React · Tailwind CSS · Node.js · Express · MongoDB  
+**Focus:** friendly UI, speed optimization, real-time API endpoints, clean data architecture  
+**Objective:** build a reliable, scalable hotel system with an excellent user experience
 
-        /* --- CARDS --- */
-        .card {
-            background: var(--bg-card);
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.05);
-            border-radius: 15px;
-            padding: 25px;
-            transition: transform 0.3s, box-shadow 0.3s;
-        }
+---
 
-        .card:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-            border-color: var(--primary);
-        }
+## 📈 GitHub Stats & Activity
+<p align="center">
+  <!-- GitHub readme stats - make sure the username is correct -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Syedain-Iqbal-Shigri&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syedain-Iqbal-Shigri&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
 
-        h2 {
-            font-size: 1.4rem;
-            margin-bottom: 15px;
-            color: var(--primary);
-        }
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Syedain-Iqbal-Shigri&row=1&column=4&theme=tokyonight" alt="Trophies" />
+</p>
 
-        h3 {
-            font-size: 1rem;
-            margin-bottom: 15px;
-            color: var(--secondary);
-        }
+<p align="center">
+  <!-- Contribution graph (animated-ish when updated) -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=Syedain-Iqbal-Shigri&bg_color=0,0,0&color=00FF88&line=00FF88&point=FFFFFF&area=true" alt="Contribution Graph" style="max-width:100%"/>
+</p>
 
-        ul {
-            list-style: none;
-            padding-left: 10px;
-        }
+---
 
-        li {
-            margin-bottom: 8px;
-            display: flex;
-            align-items: center;
-        }
+## ✨ Projects & Links
+- **Hotel Management System** — (in progress) `React + Node + MongoDB` — friendly bookings, admin panel, APIs  
+- **Portfolio / Demo** — link to portfolio (add your deployed link)  
+- **Open Source** — improving small libraries & learning repo-level best practices  
 
-        li::before {
-            content: '▹';
-            color: var(--accent);
-            margin-right: 10px;
-            font-size: 1.2rem;
-        }
+> Tip: add direct links to the project repos or your portfolio for visitors to click.
 
-        /* --- SKILL BADGES --- */
-        .skill-tag {
-            display: inline-block;
-            background: rgba(56, 189, 248, 0.1);
-            color: var(--primary);
-            padding: 5px 15px;
-            border-radius: 20px;
-            margin: 5px;
-            border: 1px solid rgba(56, 189, 248, 0.3);
-            font-size: 0.9rem;
-            font-weight: 600;
-        }
+---
 
-        /* --- PROJECT CARD --- */
-        .project-card {
-            border-left: 4px solid var(--accent);
-        }
+## 📚 Currently Learning
+- Production-grade AI / NLP toolchains  
+- Advanced performance tuning & caching strategies  
+- Docker + CI/CD for reliable deployments
 
-        /* --- STATS --- */
-        .stats {
-            display: flex;
-            justify-content: space-around;
-            flex-wrap: wrap;
-            margin-bottom: 40px;
-        }
+---
 
-        .stat-box {
-            background: linear-gradient(145deg, #1e293b, #0f172a);
-            padding: 20px;
-            border-radius: 10px;
-            text-align: center;
-            min-width: 200px;
-            border: 1px solid #334155;
-        }
+## 🤝 Let's Connect
+<p align="center">
+  <a href="mailto:sishigree@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Syedain-Iqbal-Shigri"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn (add link)"/></a>
+</p>
 
-        .stat-num {
-            font-size: 2rem;
-            font-weight: 800;
-            color: var(--text-main);
-        }
+---
 
-        /* --- FOOTER --- */
-        .footer {
-            text-align: center;
-            margin-top: 60px;
-            padding-top: 20px;
-            border-top: 1px solid #334155;
-        }
+## 💬 Closing Note
+If you like clean code, fast UIs, and thoughtful APIs — say hi!  
+Let's build something meaningful and ship it. 🚀
 
-        .social-link {
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            width: 45px;
-            height: 45px;
-            border-radius: 50%;
-            background: rgba(255, 255, 255, 0.05);
-            margin: 0 10px;
-            transition: 0.3s;
-            color: var(--text-main);
-            text-decoration: none;
-        }
+---
 
-        .social-link:hover {
-            background: var(--primary);
-            color: white;
-            transform: scale(1.1);
-        }
-
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(20px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-
-        /* RESPONSIVE */
-        @media (max-width: 768px) {
-            .grid { grid-template-columns: 1fr; }
-            .name { font-size: 2rem; }
-            .stats { flex-direction: column; gap: 10px; }
-        }
-    </style>
-</head>
-<body>
-
-    <div class="container">
-        
-        <!-- HEADER -->
-        <div class="header">
-            <img src="https://avatars.githubusercontent.com/u/Syedain-Iqbal-Shigri?v=4" alt="Profile" class="avatar">
-            <div class="name">Syedain Iqbal Shigri</div>
-            
-            <!-- TYPING ANIMATION -->
-            <div class="typing-container">
-                <span id="typewriter"></span><span class="cursor">&nbsp;</span>
-            </div>
-        </div>
-
-        <!-- SKILLS SECTION -->
-        <div class="grid">
-            <div class="card">
-                <h2>Frontend</h2>
-                <div>
-                    <span class="skill-tag">React</span>
-                    <span class="skill-tag">Tailwind CSS</span>
-                    <span class="skill-tag">Bootstrap</span>
-                    <span class="skill-tag">HTML5</span>
-                    <span class="skill-tag">CSS3</span>
-                </div>
-            </div>
-
-            <div class="card">
-                <h2>Backend</h2>
-                <div>
-                    <span class="skill-tag">Node.js</span>
-                    <span class="skill-tag">Express.js</span>
-                    <span class="skill-tag">MongoDB</span>
-                    <span class="skill-tag">MySQL</span>
-                    <span class="skill-tag">PHP</span>
-                </div>
-            </div>
-
-            <div class="card">
-                <h2>Tools</h2>
-                <div>
-                    <span class="skill-tag">Git & GitHub</span>
-                    <span class="skill-tag">WordPress</span>
-                    <span class="skill-tag">VS Code</span>
-                    <span class="skill-tag">Postman</span>
-                </div>
-            </div>
-        </div>
-
-        <!-- PROJECT SECTION -->
-        <div class="card project-card" style="margin-bottom: 40px;">
-            <h2>🚀 Current Project: Hotel Management System</h2>
-            <p>A comprehensive full-stack MERN application designed for scalability and user experience.</p>
-            <ul style="margin-top: 15px;">
-                <li>User Friendly Interface</li>
-                <li>Speed Optimization</li>
-                <li>Real-time API Communication</li>
-                <li>Scalable MongoDB Architecture</li>
-            </ul>
-        </div>
-
-        <!-- STATS PLACEHOLDER -->
-        <div class="stats">
-            <div class="stat-box">
-                <div class="stat-num">120+</div>
-                <div style="color: var(--text-muted);">Commits</div>
-            </div>
-            <div class="stat-box">
-                <div class="stat-num">5+</div>
-                <div style="color: var(--text-muted);">Projects</div>
-            </div>
-            <div class="stat-box">
-                <div class="stat-num">20</div>
-                <div style="color: var(--text-muted);">Repositories</div>
-            </div>
-        </div>
-
-        <!-- FOOTER -->
-        <div class="footer">
-            <h3 style="margin-bottom: 20px;">Connect With Me</h3>
-            <a href="https://github.com/Syedain-Iqbal-Shigri" class="social-link">GitHub</a>
-            <a href="mailto:sishigree@gmail.com" class="social-link">Email</a>
-            <a href="#" class="social-link">LinkedIn</a>
-        </div>
-
-    </div>
-
-    <!-- SCRIPT FOR TYPING EFFECT -->
-    <script>
-        const text = "Full Stack Web Developer | MERN Stack | AI Enthusiast";
-        const typeWriterElement = document.getElementById('typewriter');
-        let i = 0;
-
-        function typeWriter() {
-            if (i < text.length) {
-                typeWriterElement.innerHTML += text.charAt(i);
-                i++;
-                setTimeout(typeWriter, 100);
-            } else {
-                setTimeout(eraseText, 2000); // Wait before erasing
-            }
-        }
-
-        function eraseText() {
-            if (i > 0) {
-                typeWriterElement.innerHTML = text.substring(0, i-1);
-                i--;
-                setTimeout(eraseText, 50);
-            } else {
-                setTimeout(typeWriter, 500); // Start over
-            }
-        }
-
-        // Start animation
-        document.addEventListener('DOMContentLoaded', typeWriter);
-    </script>
-</body>
-</html>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Syedain-Iqbal-Shigri&color=brightgreen" alt="Profile views" />
+</p>
