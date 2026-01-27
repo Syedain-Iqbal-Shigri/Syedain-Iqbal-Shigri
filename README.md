@@ -95,14 +95,12 @@
 
 ---
 
-<p align="center">
-  ##My Development Approach
+##  **My Development Approach**
 
 - 🚀 **Ship Early:** Focus on building functional MVPs to get value to users quickly.  
 - ⚡ **Iterate Fast:** Agile workflow with rapid deployments, refactoring, and immediate feedback.  
 - 👥 **User-Centric:** Features designed for real users, with accessibility and scalability in mind.
 
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Syedain-Iqbal-Shigri&color=22c55e" alt="profile views" />
