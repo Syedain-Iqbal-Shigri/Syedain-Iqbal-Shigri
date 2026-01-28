@@ -111,10 +111,13 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Syedain-Iqbal-Shigri&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="GitHub Stats" />
-  &nbsp;
-<p align="center">
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syedain-Iqbal-Shigri&layout=compact&theme=tokyonight" height="160" alt="Top Languages" />
 </p>
+
+
+
+
 
 
   
