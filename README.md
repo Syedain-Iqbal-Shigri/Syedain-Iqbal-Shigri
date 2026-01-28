@@ -2,20 +2,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8860B,100:111827&height=220&section=header&text=&animation=fadeIn" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Bold&size=34&duration=2500&pause=800&color=B8860B&center=true&vCenter=true&width=900&height=70&lines=Hi+there+%F0%9F%91%8B,+Syedain+Iqbal+Shigri+is+here!;Full+Stack+Developer+%7C+MERN+Stack+%7C+AI+%26+NLP" alt="Typing SVG"/>
 </p>
-
-
 <!-- Hero image -->
 <p align="center">
 <img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=O2cT6JPnp1MfGg&pid=ImgRaw&r=0" alt="Banner" />
 </p>
-
-
-
-
 
 <h3 align="center">Full-Stack Web Developer-MERN · AI/NLP · Performance and Production</h3>
 
