@@ -1,7 +1,8 @@
 <!-- Typing text reveal -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8860B,100:111827&height=220&section=header&text=&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:111827,100:B8860B&height=200&section=header&animation=fadeIn" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Bold&size=34&duration=2500&pause=800&color=B8860B&center=true&vCenter=true&width=900&height=70&lines=Hi+there+%F0%9F%91%8B,+Syedain+Iqbal+Shigri+is+here!;Full+Stack+Developer+%7C+MERN+Stack+%7C+AI+%26+NLP" alt="Typing SVG"/>
 </p>
