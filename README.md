@@ -44,9 +44,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" width="40" height="40" alt="WordPress" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="Photoshop" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="40" height="40" alt="Premiere Pro" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Illustrator" />&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" height="40" alt="Photoshop" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="40" height="40" alt="Premiere Pro" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Illustrator" />&nbsp;
   <!-- Microsoft Office Icons -->
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftword.svg" width="40" height="40" alt="Word" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" width="40" height="40" alt="Excel" />&nbsp;
