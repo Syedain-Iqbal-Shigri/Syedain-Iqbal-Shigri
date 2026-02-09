@@ -46,6 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="Photoshop" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="40" height="40" alt="Premiere Pro" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Illustrator" />&nbsp;
   <!-- Microsoft Office Icons -->
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftword.svg" width="40" height="40" alt="Word" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" width="40" height="40" alt="Excel" />&nbsp;
@@ -77,10 +78,12 @@
 <p align="center">
   <b>Creative & Office Tools</b><br>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+  
 </p>
 
 ---
@@ -110,9 +113,16 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syedain-Iqbal-Shigri&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="GitHub Stats" />
+<div align="center">
+  <img src="https://api.github-readme-stats-latest.vercel.app/api?username=Syedain-Iqbal-Shigri&show_icons=true&theme=tokyonight&hide_border=true" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syedain-Iqbal-Shigri&layout=compact&theme=tokyonight" height="160" alt="Top Languages" />
+  <img src="https://api.github-readme-stats-latest.vercel.app/api/top-langs/?username=Syedain-Iqbal-Shigri&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <br/>
+
+  <!-- GitHub Streak Card -->
+  <img src="https://streak-stats.demolab.com/?user=Syedain-Iqbal-Shigri&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
+</div>
 </p>
 
 
