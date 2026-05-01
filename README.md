@@ -117,16 +117,24 @@ Clean UI, fast performance, project demos.
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ali-Anjum&show_icons=true&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali-Anjum&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=CBD5E1" height="180" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syedain-Iqbal-Shigri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syedain-Iqbal-Shigri&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ali-Anjum&theme=radical&hide_border=true&background=0F172A&stroke=3B82F6&ring=60A5FA&fire=3B82F6&currStreakNum=CBD5E1" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Syedain-Iqbal-Shigri&theme=tokyonight&hide_border=true" width="70%"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ali-Anjum&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" width="100%" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ali-Anjum&theme=react-dark&bg_color=0F172A&color=60A5FA&line=3B82F6&point=93C5FD&area=true&hide_border=true" width="95%" />
+</div>
+
+<br />
 ---
 
 ## 🌐 Connect
